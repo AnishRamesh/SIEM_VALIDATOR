@@ -1,0 +1,6 @@
+{
+  "name": "SIEM ATT&CK Rule Validator",
+  "description": "Validate and analyze SIEM correlation rules by mapping them against the MITRE ATT&CK database with dynamic tactic coverage heatmap visualizations and trend charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

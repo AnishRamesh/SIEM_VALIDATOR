@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "snapshot_prev",
+    "snapshotMonth": "2026-05",
+    "tactics": {
+      "TA0043": {
+        "currentMonth": 82,
+        "previousMonth": 78
+      },
+      "TA0042": {
+        "currentMonth": 91,
+        "previousMonth": 88
+      },
+      "TA0001": {
+        "currentMonth": 45,
+        "previousMonth": 40
+      },
+      "TA0002": {
+        "currentMonth": 64,
+        "previousMonth": 60
+      },
+      "TA0003": {
+        "currentMonth": 40,
+        "previousMonth": 38
+      },
+      "TA0004": {
+        "currentMonth": 70,
+        "previousMonth": 65
+      },
+      "TA0005": {
+        "currentMonth": 48,
+        "previousMonth": 45
+      },
+      "TA0006": {
+        "currentMonth": 78,
+        "previousMonth": 72
+      },
+      "TA0007": {
+        "currentMonth": 52,
+        "previousMonth": 50
+      },
+      "TA0008": {
+        "currentMonth": 38,
+        "previousMonth": 35
+      },
+      "TA0009": {
+        "currentMonth": 62,
+        "previousMonth": 58
+      },
+      "TA0011": {
+        "currentMonth": 75,
+        "previousMonth": 70
+      },
+      "TA0010": {
+        "currentMonth": 42,
+        "previousMonth": 40
+      },
+      "TA0108": {
+        "currentMonth": 50,
+        "previousMonth": 45
+      },
+      "TA0040": {
+        "currentMonth": 68,
+        "previousMonth": 62
+      }
+    }
+  }
+]

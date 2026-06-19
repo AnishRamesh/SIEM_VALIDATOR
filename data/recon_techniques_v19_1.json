@@ -1,0 +1,204 @@
+[
+  {
+    "tid": "T1589",
+    "name": "Gather Victim Identity Information",
+    "subTechniques": [
+      {
+        "tid": "T1589.001",
+        "name": "Credentials"
+      },
+      {
+        "tid": "T1589.002",
+        "name": "Email Addresses"
+      },
+      {
+        "tid": "T1589.003",
+        "name": "Employee Names"
+      }
+    ]
+  },
+  {
+    "tid": "T1590",
+    "name": "Gather Victim Network Information",
+    "subTechniques": [
+      {
+        "tid": "T1590.001",
+        "name": "Domain Properties"
+      },
+      {
+        "tid": "T1590.002",
+        "name": "DNS"
+      },
+      {
+        "tid": "T1590.003",
+        "name": "Network Trust Dependencies"
+      },
+      {
+        "tid": "T1590.004",
+        "name": "Network Topology"
+      },
+      {
+        "tid": "T1590.005",
+        "name": "IP Addresses"
+      },
+      {
+        "tid": "T1590.006",
+        "name": "Network Security Appliances"
+      }
+    ]
+  },
+  {
+    "tid": "T1591",
+    "name": "Gather Victim Org Information",
+    "subTechniques": [
+      {
+        "tid": "T1591.001",
+        "name": "Determine Physical Locations"
+      },
+      {
+        "tid": "T1591.002",
+        "name": "Business Relationships"
+      },
+      {
+        "tid": "T1591.003",
+        "name": "Identify Business Tempo"
+      },
+      {
+        "tid": "T1591.004",
+        "name": "Identify Roles"
+      }
+    ]
+  },
+  {
+    "tid": "T1592",
+    "name": "Gather Victim Host Information",
+    "subTechniques": [
+      {
+        "tid": "T1592.001",
+        "name": "Hardware"
+      },
+      {
+        "tid": "T1592.002",
+        "name": "Software"
+      },
+      {
+        "tid": "T1592.003",
+        "name": "Firmware"
+      },
+      {
+        "tid": "T1592.004",
+        "name": "Client Configurations"
+      }
+    ]
+  },
+  {
+    "tid": "T1593",
+    "name": "Search Open Websites/Domains",
+    "subTechniques": [
+      {
+        "tid": "T1593.001",
+        "name": "Social Media"
+      },
+      {
+        "tid": "T1593.002",
+        "name": "Search Engines"
+      },
+      {
+        "tid": "T1593.003",
+        "name": "Code Repositories"
+      }
+    ]
+  },
+  {
+    "tid": "T1594",
+    "name": "Search Victim-Owned Websites"
+  },
+  {
+    "tid": "T1595",
+    "name": "Active Scanning",
+    "subTechniques": [
+      {
+        "tid": "T1595.001",
+        "name": "Scanning IP Blocks"
+      },
+      {
+        "tid": "T1595.002",
+        "name": "Vulnerability Scanning"
+      },
+      {
+        "tid": "T1595.003",
+        "name": "Wordlist Scanning"
+      }
+    ]
+  },
+  {
+    "tid": "T1596",
+    "name": "Search Open Technical Databases",
+    "subTechniques": [
+      {
+        "tid": "T1596.001",
+        "name": "DNS/Passive DNS"
+      },
+      {
+        "tid": "T1596.002",
+        "name": "WHOIS"
+      },
+      {
+        "tid": "T1596.003",
+        "name": "Digital Certificates"
+      },
+      {
+        "tid": "T1596.004",
+        "name": "CDNs"
+      },
+      {
+        "tid": "T1596.005",
+        "name": "Scan Databases"
+      }
+    ]
+  },
+  {
+    "tid": "T1597",
+    "name": "Search Closed Sources",
+    "subTechniques": [
+      {
+        "tid": "T1597.001",
+        "name": "Threat Intel Vendors"
+      },
+      {
+        "tid": "T1597.002",
+        "name": "Purchase Technical Data"
+      }
+    ]
+  },
+  {
+    "tid": "T1598",
+    "name": "Phishing for Information",
+    "subTechniques": [
+      {
+        "tid": "T1598.001",
+        "name": "Spearphishing Service"
+      },
+      {
+        "tid": "T1598.002",
+        "name": "Spearphishing Attachment"
+      },
+      {
+        "tid": "T1598.003",
+        "name": "Spearphishing Link"
+      },
+      {
+        "tid": "T1598.004",
+        "name": "Spearphishing Voice"
+      }
+    ]
+  },
+  {
+    "tid": "T1681",
+    "name": "Search Threat Vendor Data"
+  },
+  {
+    "tid": "T1682",
+    "name": "Query Public AI Services"
+  }
+]
